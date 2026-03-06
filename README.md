@@ -21,6 +21,7 @@ technical evaluation purposes.
 
 ## Project Structure
 
+```
 trading_bot/
 │
 ├── bot/
@@ -34,6 +35,7 @@ trading_bot/
 ├── requirements.txt
 ├── README.md
 └── trading_bot.log # Generated log file
+```
 
 ---
 
@@ -161,5 +163,3 @@ The bot performs input validation before sending requests to the API:
 - The application is designed for demonstration and evaluation purposes.
 
 ---
-
-## Author
